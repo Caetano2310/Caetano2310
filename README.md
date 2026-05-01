@@ -1,13 +1,13 @@
 "# Caetano2310" 
 # Olá mi nombre here João Víctor👋
 
-**💻 Curso la programación **  
+**💻 Curso programación **  
 - Soy Brasileño 🇧🇷.
 
 **🎯 Interests**  
 - Fútbol
 - Music
-- Jugar
+- compártir video
 - Mirar el pantella 
 
 **📬 How to reach me**  
