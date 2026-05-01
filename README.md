@@ -16,4 +16,4 @@ Coloque
 <div>  
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
-<img src="https://drive.google.com/file/d/15ccPgeYbSaWnWxvqGCvlsOJ2Mj-XPBLO/view"/>
+<img src="https://i.pinimg.com/736x/b3/e4/d0/b3e4d0d98c51b7dab7f36ad63ceef5ff.jpg"/>
