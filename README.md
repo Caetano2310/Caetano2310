@@ -6,9 +6,7 @@
 
 **🎯 Interests**  
 - Fútbol
-- Music
-- compártir video
-- Mirar el pantella 
+- Music 
 
 **📬 How to reach me**  
 
