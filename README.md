@@ -17,3 +17,4 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
 <img src="https://i.pinimg.com/736x/b3/e4/d0/b3e4d0d98c51b7dab7f36ad63ceef5ff.jpg"/>
+<img src="https://br.pinterest.com/pin/43910165113077343/"/>
