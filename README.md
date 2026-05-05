@@ -1,16 +1,15 @@
 "# Caetano2310" 
 # Olá mi nombre heres João Víctor👋
 
-**💻 Curso programación **  
+**💻 Curso programacción **  
 - Soy Brasileño 🇧🇷.
 
 **🎯 Intereses**  
 - Fútbol
 - Music 
 
-**📬 Como Llegar até mi**  
-
-Coloque
+**📬 Como llegar até mi**  
+@joaobcaetanoo
 
 **🧰 Current stack**  
 <div>  
