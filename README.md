@@ -8,7 +8,8 @@
 - Fútbol
 - Music 
 
-**📬 Como llegar até mi**  
+**📬 Como llegar a mi**  
+
 @joaobcaetanoo
 
 **🧰 Current stack**  
