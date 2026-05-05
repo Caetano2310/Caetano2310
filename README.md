@@ -4,11 +4,11 @@
 **💻 Curso programación **  
 - Soy Brasileño 🇧🇷.
 
-**🎯 Interests**  
+**🎯 Intereses**  
 - Fútbol
 - Music 
 
-**📬 How to reach me**  
+**📬 Como Llegar até mi**  
 
 Coloque
 
